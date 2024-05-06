@@ -25,8 +25,7 @@ const Overview: React.FC = () => {
                   </div>
                   <h3>Safe And Secure</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                    sed do eiusmo.
+                    AVANZA ensures safety and security measures are paramount in all operations, maintaining the highest standards to safeguard personnel and assets.
                   </p>
                 </div>
               </div>
@@ -41,10 +40,9 @@ const Overview: React.FC = () => {
                       height={56}
                     />
                   </div>
-                  <h3>Operations Manage</h3>
+                  <h3>Operations Management</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                    sed do eiusmo.
+                    AVANZA optimizes operations through advanced management techniques, ensuring efficiency and effectiveness across all processes.
                   </p>
                 </div>
               </div>
@@ -59,10 +57,9 @@ const Overview: React.FC = () => {
                       height={56}
                     />
                   </div>
-                  <h3>Experts Support</h3>
+                  <h3>Expert Support</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                    sed do eiusmo.
+                    AVANZA provides expert support and consultation services, leveraging industry knowledge and experience to drive success for our clients.
                   </p>
                 </div>
               </div>
@@ -79,8 +76,7 @@ const Overview: React.FC = () => {
                   </div>
                   <h3>Risk Management</h3>
                   <p>
-                    Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                    sed do eiusmo.
+                    AVANZA implements comprehensive risk management strategies, identifying and mitigating potential risks to ensure operational continuity and success.
                   </p>
                 </div>
               </div>
