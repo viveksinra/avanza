@@ -22,9 +22,7 @@ const FooterTwo: React.FC = () => {
                   />
                 </Link>
                 <p>
-                  Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                  sed do ipsum lorem dollar eiusmo. Lorem ipsum dolor sit amet,
-                  is sit consectetur adipiscing elit.
+                  AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO, established in 2024 and based in Dubai, UAE, is a dynamic company in the oil and gas industry.
                 </p>
 
                 <ul className="social-links">
@@ -54,34 +52,30 @@ const FooterTwo: React.FC = () => {
 
             <div className="col-lg-3 col-md-6 col-sm-6">
               <div className="single-footer-card ps-5">
-                <h3>Cryptocurrency</h3>
+                <h3>About</h3>
 
                 <ul className="footer-quick-links">
                   <li>
                     <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Buy Bitcoin
+                      <i className="fa-solid fa-angles-right"></i> Team
                     </Link>
                   </li>
                   <li>
                     <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Buy BNB
+                      <i className="fa-solid fa-angles-right"></i> Feature
                     </Link>
                   </li>
                   <li>
                     <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Buy Ethereum
+                      <i className="fa-solid fa-angles-right"></i> Faq
                     </Link>
                   </li>
                   <li>
                     <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Buy Ripple
+                      <i className="fa-solid fa-angles-right"></i> Partner
                     </Link>
                   </li>
-                  <li>
-                    <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Buy Litecoin
-                    </Link>
-                  </li>
+           
                 </ul>
               </div>
             </div>
@@ -93,24 +87,19 @@ const FooterTwo: React.FC = () => {
                 <ul className="footer-quick-links">
                   <li>
                     <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Trade
+                      <i className="fa-solid fa-angles-right"></i> Terms and Condition
                     </Link>
                   </li>
                   <li>
                     <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Guides
+                      <i className="fa-solid fa-angles-right"></i> Privacy Policy
                     </Link>
-                  </li>
+                  </li>               
                   <li>
                     <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Wallets
+                      <i className="fa-solid fa-angles-right"></i> Projects
                     </Link>
-                  </li>
-                  <li>
-                    <Link href="/faq">
-                      <i className="fa-solid fa-angles-right"></i> FAQ
-                    </Link>
-                  </li>
+                  </li>               
                   <li>
                     <Link href="/contact">
                       <i className="fa-solid fa-angles-right"></i> Contact
@@ -127,7 +116,7 @@ const FooterTwo: React.FC = () => {
                 <ul className="contact-links">
                   <li>
                     <span>Address:</span> 2750 Quadra Street Victoria Road, New
-                    York, Canada
+                    York, Dubai
                   </li>
                   <li>
                     <span>Website:</span>{" "}
@@ -149,28 +138,13 @@ const FooterTwo: React.FC = () => {
           </div>
         </div>
 
-        <div className="footer-wrap-line">
-          <Image
-            src="/images/cryptocurrency-home/footer/wrap-line.png"
-            alt="image"
-            width={1920}
-            height={310}
-          />
-        </div>
+       
         <div className="footer-wrap-shape">
           <Image
             src="/images/cryptocurrency-home/footer/shape-1.png"
             alt="image"
             width={63}
             height={58}
-          />
-        </div>
-        <div className="footer-wrap-shape-2">
-          <Image
-            src="/images/cryptocurrency-home/footer/shape-2.png"
-            alt="image"
-            width={33}
-            height={53}
           />
         </div>
       </div>

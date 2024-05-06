@@ -25,7 +25,7 @@ const AboutArea: React.FC = () => {
                 <span className="sub-title">About Us</span>
                 <h2>Leading the Future of Oilfield Solutions</h2>
                 <p>
-                  At AVANZA, we are pioneers in revolutionizing the oil and gas industry through digital innovations. We prioritize authentic interactions and a seamless customer experience to drive success. Our commitment to excellence ensures genuine products and services that prioritize the needs of our clients.
+                AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO is a dynamic and innovative company established in 2024 and headquartered in Dubai, UAE. With a commitment to excellence and a focus on delivering high-quality products and services, AVANZA is a leading provider in the oil and gas industry. Our comprehensive range of offerings includes equipment supplies and services tailored to various aspects of oilfield operations, from drilling and completion to production and maintenance.
                 </p>
 
                 <ul className="features-list">
@@ -49,16 +49,7 @@ const AboutArea: React.FC = () => {
                       <i className="fas fa-check"></i> Tailored Services
                     </span>
                   </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> Expert Support Team
-                    </span>
-                  </li>
-                  <li>
-                    <span>
-                      <i className="fas fa-check"></i> 24/7 Assistance
-                    </span>
-                  </li>
+                
                 </ul>
               </div>
             </div>
@@ -94,7 +85,7 @@ const AboutArea: React.FC = () => {
                 <div className="about-text">
                   <h3>Our Mission</h3>
                   <p>
-                    AVANZA is on a mission to redefine the oil and gas sector through genuine innovation and customer-centric solutions. We aspire to exceed expectations and deliver tangible results.
+                  Our mission at AVANZA is to be a trusted partner for our clients, providing them with reliable and efficient solutions that enhance their operational efficiency and maximize their productivity in the oil and gas sector. We strive to maintain the highest standards of quality, safety, and environmental sustainability in all our endeavors.
                   </p>
 
                   <ul className="features-list">
@@ -104,12 +95,7 @@ const AboutArea: React.FC = () => {
                     <li>
                       <i className="flaticon-tick"></i> Setting Higher Standards
                     </li>
-                    <li>
-                      <i className="flaticon-tick"></i> Cultivating Innovative Thinking
-                    </li>
-                    <li>
-                      <i className="flaticon-tick"></i> Building Trust Through Action
-                    </li>
+          
                   </ul>
                 </div>
               </div>

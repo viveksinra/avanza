@@ -130,7 +130,7 @@ const FooterThree: React.FC = () => {
                 <ul className="contact-links">
                   <li>
                     <span>Address:</span> 2750 Quadra Street Victoria Road, New
-                    York, Canada
+                    York, Dubai
                   </li>
                   <li>
                     <span>Website:</span>{" "}

@@ -25,7 +25,7 @@ const ContactInfo: React.FC = () => {
                   <i className="flaticon-phone-call"></i>
                 </div>
                 <h3>Location Here</h3>
-                <p>2750 Quadra Street Victoria Road, New York, Canada</p>
+                <p>2750 Quadra Street Victoria Road, New York, Dubai</p>
               </div>
             </div>
 

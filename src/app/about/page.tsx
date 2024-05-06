@@ -33,15 +33,15 @@ export default function Page() {
 
       <WhyChooseUs />
 
-      <Solution />
+      {/* <Solution /> */}
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
-      <OurTeam />
+      {/* <OurTeam /> */}
 
-      <SubscribeFluid />
+      {/* <SubscribeFluid /> */}
 
-      <PartnerWithTitle />
+      {/* <PartnerWithTitle /> */}
 
       <FooterTwo />
     </>
