@@ -21,31 +21,13 @@ const SidebarModal: React.FC<SidebarModalProps> = ({ active, onClick }) => {
             <div className="title">
               <h2>About Us</h2>
               <p>
-                We believe brand interaction is key in communication. Real
-                innovations and a positive customer experience are the heart of
-                successful communication. No fake products and services. The
-                customer is king, their lives and needs are the inspiration.
+              AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO is a dynamic and innovative company established in 2024 and headquartered in Dubai, UAE. With a commitment to excellence and a focus on delivering high-quality products and services, AVANZA is a leading provider in the oil and gas industry. Our comprehensive range of offerings includes equipment supplies and services tailored to various aspects of oilfield operations, from drilling and completion to production and maintenance.
+
               </p>
             </div>
           </div>
 
-          <div className="sidebar-instagram-feed">
-            <h2>Instagram</h2>
-            <ul>
-              {[...Array(8)].map((_, index) => (
-                <li key={index}>
-                  <a href="https://www.instagram.com/" target="_blank">
-                    <Image
-                      src={`/images/blog-image/blog-image${index + 1}.jpg`}
-                      alt="image"
-                      width={860}
-                      height={700}
-                    />
-                  </a>
-                </li>
-              ))}
-            </ul>
-          </div>
+      
 
           <div className="sidebar-contact-area">
             <div className="contact-info">
