@@ -24,14 +24,10 @@ const AboutContent: React.FC = () => {
               <div className="bd-about-content">
                 <span className="sub-title">ABOUT AVANZA</span>
                 <h3>
-                  Professional Services <span>Provider</span> With Big Data
-                  Solution
+                  Trusted Partner <span>in Oilfield Solutions</span> with Data-Driven Insights
                 </h3>
                 <p>
-                  We work hand-in-hand with industry-leading brands to help
-                  redefine the possibilities and potential of digital
-                  engagements We work hand-in-hand with industry-leading brands
-                  to help redefine the possibilities and potential.
+                  AVANZA is committed to redefining the possibilities and potential of oilfield operations through innovative digital solutions and industry expertise.
                 </p>
 
                 <div className="inner-content-card">
@@ -43,10 +39,9 @@ const AboutContent: React.FC = () => {
                       height={46}
                     />
                   </div>
-                  <h4>Big Data Management</h4>
+                  <h4>Drilling Support</h4>
                   <p>
-                    We work hand-in-hand with industry-leading brands to help
-                    redefine the possibilities.
+                    We provide comprehensive drilling support to optimize operations and enhance efficiency.
                   </p>
                 </div>
 
@@ -59,10 +54,9 @@ const AboutContent: React.FC = () => {
                       height={46}
                     />
                   </div>
-                  <h4>Big Data Analysis</h4>
+                  <h4>Well Completion</h4>
                   <p>
-                    We work hand-in-hand with industry-leading brands to help
-                    redefine the possibilities.
+                    Our well completion solutions ensure seamless project execution and superior performance.
                   </p>
                 </div>
 
@@ -75,10 +69,9 @@ const AboutContent: React.FC = () => {
                       height={46}
                     />
                   </div>
-                  <h4>Big Data Integration</h4>
+                  <h4>Artificial Lift Solutions</h4>
                   <p>
-                    We work hand-in-hand with industry-leading brands to help
-                    redefine the possibilities.
+                    We offer advanced artificial lift solutions to maximize production and optimize reservoir performance.
                   </p>
                 </div>
               </div>
