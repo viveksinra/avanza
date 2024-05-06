@@ -39,7 +39,7 @@ export default function Page() {
 
       <Feedbacks />
 
-      <LatestNews />
+      {/* <LatestNews /> */}
 
       <NewsletterForm />
 

@@ -10,7 +10,7 @@ const NewsletterForm: React.FC = () => {
         <div className="container">
           <div className="subscribe-wrap-inner-box">
             <div className="subscribe-content">
-              <h2>Join Our Newsletter</h2>
+              <h2>Join AVANZA Newsletter</h2>
 
               <form className="newsletter-form">
                 <input
