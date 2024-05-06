@@ -23,44 +23,40 @@ const OurFeatures: React.FC = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
                 <span className="sub-title">Our Features</span>
-                <h2>Creative solutions to improve your business!</h2>
+                <h2>Innovative Solutions to Enhance Your Operations!</h2>
                 <p>
-                  We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.
-                  The customer is king, their lives and needs are the
-                  inspiration.
+                  At AVANZA, we prioritize brand interaction and effective communication. Our focus lies in providing genuine innovations and ensuring a positive customer experience, which are integral to successful business operations. We value our customers and draw inspiration from their lives and needs.
                 </p>
 
                 <ul className="features-list">
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Recommender systems
+                      <i className="fas fa-check"></i> Advanced Drilling Support
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Demand prediction
+                      <i className="fas fa-check"></i> Cutting-edge Well Completion Solutions
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Omnichannel analytics
+                      <i className="fas fa-check"></i> Artificial Lift Technologies
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Lead generation
+                      <i className="fas fa-check"></i> Reliable Production Operations
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> Dedicated Developers
+                      <i className="fas fa-check"></i> Comprehensive Facility Maintenance
                     </span>
                   </li>
                   <li>
                     <span>
-                      <i className="fas fa-check"></i> 24/7 Support
+                      <i className="fas fa-check"></i> Groundbreaking Personnel Outsourcing
                     </span>
                   </li>
                 </ul>

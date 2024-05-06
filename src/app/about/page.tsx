@@ -35,13 +35,13 @@ export default function Page() {
 
       <Solution />
 
-      <Testimonials />
+      {/* <Testimonials /> */}
 
-      <OurTeam />
+      {/* <OurTeam /> */}
 
       <SubscribeFluid />
 
-      <PartnerWithTitle />
+      {/* <PartnerWithTitle /> */}
 
       <FooterTwo />
     </>

@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import FsLightbox from "fslightbox-react";
 import Link from "next/link";
 
-const Solution: React.FC = () => {
+const AvanzaSolution: React.FC = () => {
   // To open the lightbox change the value of the "toggler" prop.
   const [toggler, setToggler] = useState(false);
 
@@ -26,10 +26,9 @@ const Solution: React.FC = () => {
             <div className="col-lg-6 col-md-12">
               <div className="solution-content">
                 <span className="sub-title">Watch Our Video</span>
-                <h2>Get Better Solution For Your Business</h2>
+                <h2>Discover Solutions Tailored for Your Operations</h2>
                 <p>
-                  No fake products and services. The customer is king, their
-                  lives and needs are the inspiration.
+                  At Avanza, authenticity is our hallmark. We prioritize the needs of our clients, drawing inspiration from their requirements and experiences.
                 </p>
 
                 <Link href="/contact" className="default-btn">
@@ -55,4 +54,4 @@ const Solution: React.FC = () => {
   );
 };
 
-export default Solution;
+export default AvanzaSolution;
