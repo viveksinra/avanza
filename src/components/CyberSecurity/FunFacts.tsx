@@ -14,7 +14,7 @@ const FunFacts: React.FC = () => {
                 <h3>
                   2,250 <span className="sign-icon">+</span>
                 </h3>
-                <p>Cybersecurity Projects</p>
+                <p>Projects</p>
               </div>
             </div>
 
