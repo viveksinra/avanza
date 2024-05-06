@@ -14,7 +14,7 @@ const FunFacts: React.FC = () => {
                   324
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Project Completed</p>
+                <p>Projects Completed</p>
                 <div className="back-text">P</div>
               </div>
             </div>
@@ -25,7 +25,7 @@ const FunFacts: React.FC = () => {
                   100
                   <span className="sign-icon">%</span>
                 </h3>
-                <p>Client Satisfaction</p>
+                <p>Client Satisfaction Rate</p>
                 <div className="back-text">C</div>
               </div>
             </div>
@@ -33,7 +33,7 @@ const FunFacts: React.FC = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="single-fun-facts">
                 <h3>15</h3>
-                <p>Awards</p>
+                <p>Awards Received</p>
                 <div className="back-text">A</div>
               </div>
             </div>
@@ -44,7 +44,7 @@ const FunFacts: React.FC = () => {
                   48
                   <span className="sign-icon">+</span>
                 </h3>
-                <p>Expert Members</p>
+                <p>Expert Team Members</p>
                 <div className="back-text">E</div>
               </div>
             </div>

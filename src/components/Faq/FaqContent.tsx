@@ -18,9 +18,7 @@ const FaqContent: React.FC = () => {
             <span className="sub-title">About Our Services</span>
             <h2>Frequently Asked Questions</h2>
             <p>
-              We believe brand interaction is key in communication. Real
-              innovations and a positive customer experience are the heart of
-              successful communication.
+              At AVANZA, we understand the importance of engaging with our clients. Real innovation and delivering a positive customer experience are fundamental to successful communication.
             </p>
           </div>
 
@@ -31,21 +29,13 @@ const FaqContent: React.FC = () => {
                   <AccordionItem uuid="a">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Which material types can you work with?
+                        Which product categories do you specialize in?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit
-                        anim id est laborum.
+                        At AVANZA, we specialize in a wide range of products and services tailored to the oil and gas industry. From OCTG & line pipe to completion equipment, wellhead valves, and more, we are equipped to meet your needs.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -53,21 +43,13 @@ const FaqContent: React.FC = () => {
                   <AccordionItem uuid="b">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Is Smart Lock required for instant apps?
+                        Do you offer consulting services for optimizing oilfield operations?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit
-                        anim id est laborum.
+                        Yes, we provide comprehensive consulting services aimed at enhancing operational efficiency and productivity in oilfield operations. Our team of experts is dedicated to offering tailored solutions to meet your specific requirements.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -75,21 +57,13 @@ const FaqContent: React.FC = () => {
                   <AccordionItem uuid="c">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Can I have multiple activities in a single feature?
+                        What are your commitments to safety and environmental sustainability?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit
-                        anim id est laborum.
+                        At AVANZA, safety and environmental sustainability are at the core of everything we do. We adhere to the highest standards to ensure the safety of our employees and the protection of the environment in which we operate.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -97,21 +71,13 @@ const FaqContent: React.FC = () => {
                   <AccordionItem uuid="d">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Can I have multiple activities in a single feature?
+                        How do you ensure the quality of your products and services?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit
-                        anim id est laborum.
+                        Quality assurance is paramount at AVANZA. We employ rigorous quality control measures at every stage of our operations to ensure that our products and services meet the highest industry standards.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -119,21 +85,13 @@ const FaqContent: React.FC = () => {
                   <AccordionItem uuid="e">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Which material types can you work with?
+                        What is your approach to innovation in the oil and gas sector?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit
-                        anim id est laborum.
+                        Innovation is key to our success at AVANZA. We collaborate with industry leaders to develop and implement cutting-edge solutions that address the evolving needs of the oil and gas sector, driving efficiency and productivity.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -141,21 +99,13 @@ const FaqContent: React.FC = () => {
                   <AccordionItem uuid="f">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        How To Get Start With Us?
+                        How can I get started with AVANZA's products and services?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit
-                        anim id est laborum.
+                        Getting started with AVANZA is simple. Get in touch with our team, and we'll work with you to understand your requirements and provide tailored solutions that meet your needs, helping you achieve your operational goals.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>
@@ -163,21 +113,13 @@ const FaqContent: React.FC = () => {
                   <AccordionItem uuid="g">
                     <AccordionItemHeading>
                       <AccordionItemButton>
-                        Why Choose Our Services In Your Business?
+                        Why should I choose AVANZA for my oil and gas business needs?
                       </AccordionItemButton>
                     </AccordionItemHeading>
 
                     <AccordionItemPanel>
                       <p className="accordion-content">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore
-                        magna aliqua. Ut enim ad minim veniam, quis nostrud
-                        exercitation ullamco laboris nisi ut aliquip ex ea
-                        commodo consequat. Duis aute irure dolor in
-                        reprehenderit in voluptate velit esse cillum dolore eu
-                        fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-                        non proident, sunt in culpa qui officia deserunt mollit
-                        anim id est laborum.
+                        AVANZA is dedicated to exceeding client expectations by delivering value-driven solutions that enhance operational efficiency and productivity. With our commitment to quality, safety, and environmental responsibility, choosing AVANZA means choosing reliability and excellence for your business.
                       </p>
                     </AccordionItemPanel>
                   </AccordionItem>

@@ -13,8 +13,8 @@ const SubscribeFluid: React.FC = () => {
             style={{ backgroundImage: `url(/images/subscribe-bg.jpg)` }}
           >
             <div className="subscribe-content">
-              <span className="sub-title">Get Started Instantly!</span>
-              <h2>Get on only new update from this newsletter!</h2>
+              <span className="sub-title">Stay Updated Instantly!</span>
+              <h2>Receive the latest updates from AVANZA!</h2>
 
               <form className="newsletter-form">
                 <input

@@ -11,10 +11,9 @@ const Feedbacks: React.FC = () => {
       <div className="unique-feedback-area with-linear-gradient-color pt-100">
         <div className="container">
           <div className="section-title with-line-text-with-white-color">
-            <span className="sub-title">CREATING FEEDBACK</span>
+            <span className="sub-title">CLIENT TESTIMONIALS</span>
             <h2>
-              Check What’s Our Clients <span>Feedback</span> On Our Big Data
-              Services
+              Explore Our <span>Client Feedback</span> On Our Services
             </h2>
           </div>
 
@@ -39,6 +38,7 @@ const Feedbacks: React.FC = () => {
             modules={[Autoplay, Pagination]}
             className="unique-feedback-slides"
           >
+            {/* First Slide */}
             <SwiperSlide>
               <div className="unique-single-feedback">
                 <ul className="rating">
@@ -59,9 +59,7 @@ const Feedbacks: React.FC = () => {
                   </li>
                 </ul>
                 <p>
-                  “We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.”
+                  “Avanza has been instrumental in our operations. Their dedication to quality and safety is commendable. We highly recommend their services.”
                 </p>
                 <div className="client-info">
                   <Image
@@ -70,8 +68,8 @@ const Feedbacks: React.FC = () => {
                     width={150}
                     height={150}
                   />
-                  <h3>Jason Roy</h3>
-                  <span>Manager</span>
+                  <h3>John Smith</h3>
+                  <span>Operations Manager</span>
                 </div>
                 <div className="quote">
                   <Image
@@ -84,6 +82,7 @@ const Feedbacks: React.FC = () => {
               </div>
             </SwiperSlide>
 
+            {/* Second Slide */}
             <SwiperSlide>
               <div className="unique-single-feedback">
                 <ul className="rating">
@@ -104,9 +103,7 @@ const Feedbacks: React.FC = () => {
                   </li>
                 </ul>
                 <p>
-                  “We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.”
+                  “Avanza's commitment to excellence is unmatched. They consistently deliver top-notch solutions tailored to our needs.”
                 </p>
                 <div className="client-info">
                   <Image
@@ -115,8 +112,8 @@ const Feedbacks: React.FC = () => {
                     width={150}
                     height={150}
                   />
-                  <h3>James Anderson</h3>
-                  <span>Web Developer</span>
+                  <h3>Emily Johnson</h3>
+                  <span>Drilling Engineer</span>
                 </div>
                 <div className="quote">
                   <Image
@@ -129,6 +126,7 @@ const Feedbacks: React.FC = () => {
               </div>
             </SwiperSlide>
 
+            {/* Third Slide */}
             <SwiperSlide>
               <div className="unique-single-feedback">
                 <ul className="rating">
@@ -149,9 +147,7 @@ const Feedbacks: React.FC = () => {
                   </li>
                 </ul>
                 <p>
-                  “We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.”
+                  “Avanza's expertise in the field is unparalleled. Their attention to detail and customer satisfaction make them a valuable partner.”
                 </p>
                 <div className="client-info">
                   <Image
@@ -160,8 +156,8 @@ const Feedbacks: React.FC = () => {
                     width={150}
                     height={150}
                   />
-                  <h3>Jason Roy</h3>
-                  <span>Manager</span>
+                  <h3>Michael Brown</h3>
+                  <span>Production Manager</span>
                 </div>
                 <div className="quote">
                   <Image
@@ -173,141 +169,9 @@ const Feedbacks: React.FC = () => {
                 </div>
               </div>
             </SwiperSlide>
+            
+            {/* Additional Slides Go Here */}
 
-            <SwiperSlide>
-              <div className="unique-single-feedback">
-                <ul className="rating">
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                </ul>
-                <p>
-                  “We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.”
-                </p>
-                <div className="client-info">
-                  <Image
-                    src="/images/cryptocurrency-home/user1.jpg"
-                    alt="image"
-                    width={150}
-                    height={150}
-                  />
-                  <h3>James Anderson</h3>
-                  <span>Web Developer</span>
-                </div>
-                <div className="quote">
-                  <Image
-                    src="/images/cryptocurrency-home/quote.png"
-                    alt="image"
-                    width={118}
-                    height={86}
-                  />
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="unique-single-feedback">
-                <ul className="rating">
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                </ul>
-                <p>
-                  “We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.”
-                </p>
-                <div className="client-info">
-                  <Image
-                    src="/images/cryptocurrency-home/user2.jpg"
-                    alt="image"
-                    width={150}
-                    height={150}
-                  />
-                  <h3>Jason Roy</h3>
-                  <span>Manager</span>
-                </div>
-                <div className="quote">
-                  <Image
-                    src="/images/cryptocurrency-home/quote.png"
-                    alt="image"
-                    width={118}
-                    height={86}
-                  />
-                </div>
-              </div>
-            </SwiperSlide>
-
-            <SwiperSlide>
-              <div className="unique-single-feedback">
-                <ul className="rating">
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                  <li>
-                    <i className="bx bxs-star"></i>
-                  </li>
-                </ul>
-                <p>
-                  “We believe brand interaction is key in communication. Real
-                  innovations and a positive customer experience are the heart
-                  of successful communication. No fake products and services.”
-                </p>
-                <div className="client-info">
-                  <Image
-                    src="/images/cryptocurrency-home/user3.jpg"
-                    alt="image"
-                    width={150}
-                    height={150}
-                  />
-                  <h3>James Anderson</h3>
-                  <span>Web Developer</span>
-                </div>
-                <div className="quote">
-                  <Image
-                    src="/images/cryptocurrency-home/quote.png"
-                    alt="image"
-                    width={118}
-                    height={86}
-                  />
-                </div>
-              </div>
-            </SwiperSlide>
           </Swiper>
         </div>
       </div>

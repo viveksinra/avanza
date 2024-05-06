@@ -11,7 +11,7 @@ const OurFeatures: React.FC = () => {
           <div className="section-title with-line-text-with-white-color">
             <span className="sub-title">OUR FEATURED</span>
             <h2>
-              The Power To Complete <span>Website</span> And Big Data Solutions
+              Enhancing <span>Oilfield</span> Operations with Innovative Solutions
             </h2>
           </div>
 
@@ -26,10 +26,9 @@ const OurFeatures: React.FC = () => {
                     height={56}
                   />
                 </div>
-                <h3>Supply Chain</h3>
+                <h3>Drilling Support</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                  sed do eiusmo.
+                  Avanza provides comprehensive drilling support services tailored to optimize efficiency and safety.
                 </p>
               </div>
             </div>
@@ -44,10 +43,9 @@ const OurFeatures: React.FC = () => {
                     height={56}
                   />
                 </div>
-                <h3>Predictive Maintenance</h3>
+                <h3>Well Completion</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                  sed do eiusmo.
+                  Avanza specializes in well completion solutions designed to enhance production and performance.
                 </p>
               </div>
             </div>
@@ -62,10 +60,9 @@ const OurFeatures: React.FC = () => {
                     height={56}
                   />
                 </div>
-                <h3>IT Optimization</h3>
+                <h3>Artificial Lift Solutions</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                  sed do eiusmo.
+                  Avanza offers advanced artificial lift solutions for efficient oil and gas production operations.
                 </p>
               </div>
             </div>
@@ -80,10 +77,9 @@ const OurFeatures: React.FC = () => {
                     height={56}
                   />
                 </div>
-                <h3>Critical Infrastructure</h3>
+                <h3>Production Operations</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, is consectetur adipiscing elit,
-                  sed do eiusmo.
+                  Avanza delivers tailored production operation services to maximize output and reliability.
                 </p>
               </div>
             </div>

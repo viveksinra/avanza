@@ -14,28 +14,27 @@ const WhyChooseUs: React.FC = () => {
               <div className="bd-choose-content">
                 <span className="sub-title">WHY CHOOSE AVANZA</span>
                 <h3>
-                  Do What Matters <span>And We'll</span> Handle The Back Office
-                  Routine
+                  Delivering Excellence <span>in Oilfield Solutions</span>
                 </h3>
                 <p>
-                  We work hand-in-hand with industry-leading brands to help
-                  redefine the possibilities and potential of digital
-                  engagements We work hand-in-hand with industry-leading brands
-                  to help redefine the possibilities and potential.
+                  We collaborate closely with industry leaders to redefine
+                  operational standards and elevate performance across
+                  oilfield operations. Our commitment is to push boundaries and
+                  unlock the full potential of your projects.
                 </p>
 
                 <div className="row justify-content-center">
                   <div className="col-lg-6 col-sm-6">
                     <ul className="list">
                       <li>
-                        <i className="fa-solid fa-check"></i> Demand Prediction
+                        <i className="fa-solid fa-check"></i> Drilling Support
                       </li>
                       <li>
-                        <i className="fa-solid fa-check"></i> Lead Generation
+                        <i className="fa-solid fa-check"></i> Well Completion
                       </li>
                       <li>
-                        <i className="fa-solid fa-check"></i> Product Line
-                        Optimization
+                        <i className="fa-solid fa-check"></i> Artificial Lift
+                        Solutions
                       </li>
                     </ul>
                   </div>
@@ -43,16 +42,16 @@ const WhyChooseUs: React.FC = () => {
                   <div className="col-lg-6 col-sm-6">
                     <ul className="list">
                       <li>
-                        <i className="fa-solid fa-check"></i> Preventive
+                        <i className="fa-solid fa-check"></i> Production
+                        Operations
+                      </li>
+                      <li>
+                        <i className="fa-solid fa-check"></i> Facility
                         Maintenance
                       </li>
                       <li>
-                        <i className="fa-solid fa-check"></i> Logistics
-                        Optimization
-                      </li>
-                      <li>
-                        <i className="fa-solid fa-check"></i> Warehouse
-                        Optimization
+                        <i className="fa-solid fa-check"></i> Ground
+                        Engineering
                       </li>
                     </ul>
                   </div>
