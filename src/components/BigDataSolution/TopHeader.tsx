@@ -36,7 +36,7 @@ const TopHeader: React.FC = () => {
               <ul className="topbar-action-list">
                 <li>
                   <i className="bx bxs-map"></i> 2750 Quadra Street Victoria
-                  Road, New York, Canada
+                  Road, Dubai
                 </li>
                 <li>
                   <i className="bx bxs-phone"></i> <span>Call</span>{" "}
