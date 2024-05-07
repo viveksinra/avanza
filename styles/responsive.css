@@ -1349,7 +1349,7 @@
     padding: 11px 12px 8px 40px;
   }
   .it-overview .overview-content .content .features-list li span i {
-    color: #000066;
+    color: #b5167f;
     width: auto;
     height: auto;
     background-color: transparent;
@@ -1545,7 +1545,7 @@
     color: #ffffff;
   }
   .navbar-area-with-position-relative.with-black-color .others-options .cart-items a:hover {
-    color: #000066;
+    color: #b5167f;
   }
   .value-trade-card p {
     font-size: 13.5px;
@@ -2120,7 +2120,7 @@
     position: absolute;
     right: 5px;
     top: 5px;
-    background-color: #000066;
+    background-color: #b5167f;
     color: #ffffff;
     margin-top: 0;
     display: inline-block;
@@ -3053,7 +3053,7 @@
     color: #ffffff;
   }
   .navbar-area-with-position-relative.with-black-color .others-options .cart-items a:hover {
-    color: #000066;
+    color: #b5167f;
   }
   .value-trade-card p {
     font-size: 13.5px;
