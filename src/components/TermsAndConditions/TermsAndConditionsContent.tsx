@@ -7,109 +7,94 @@ const TermsAndConditionsContent: React.FC = () => {
     <>
       <div className="main-content ptb-80">
         <div className="container">
-          <h3>What is Lorem Ipsum?</h3>
+          <h3>Terms and Conditions</h3>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book. It has survived not
-            only five centuries, but also the leap into electronic typesetting,
-            remaining essentially unchanged. It was popularised in the 1960s
-            with the release of Letraset sheets containing Lorem Ipsum passages,
-            and more recently with desktop publishing software like Aldus
-            PageMaker including versions of Lorem Ipsum.
-          </p>
-
-          <h3>Why do we use it?</h3>
-          <p>
-            It is a long established fact that a reader will be distracted by
-            the readable content of a page when looking at its layout. The point
-            of using Lorem Ipsum is that it has a more-or-less normal
-            distribution of letters, as opposed to using 'Content here, content
-            here', making it look like readable English. Many desktop publishing
-            packages and web page editors now use Lorem Ipsum as their default
-            model text, and a search for 'lorem ipsum' will uncover many web
-            sites still in their infancy. Various versions have evolved over the
-            years, sometimes by accident, sometimes on purpose (injected humour
-            and the like)
+            These terms and conditions outline the rules and regulations for the use of AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO's website.
           </p>
 
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-            aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-            pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-            culpa qui officia deserunt mollit anim id est laborum.
-          </p>
-
-          <h3>Where does it come from?</h3>
-          <p>
-            Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-            aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-            eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,
-            qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,
-            sed quia non numquam eius modi tempora incidunt ut labore et dolore
-            magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis
-            nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut
-            aliquid ex ea commodi consequatur? Quis autem vel eum iure
-            reprehenderit qui in ea voluptate velit esse quam nihil molestiae
-            consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla
-            pariatur.
+            By accessing this website, we assume you accept these terms and conditions in full. Do not continue to use AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO's website if you do not accept all of the terms and conditions stated on this page.
           </p>
 
           <p>
-            But I must explain to you how all this mistaken idea of denouncing
-            pleasure and praising pain was born and I will give you a complete
-            account of the system, and expound the actual teachings of the great
-            explorer of the truth, the master-builder of human happiness. No one
-            rejects, dislikes, or avoids pleasure itself, because it is
-            pleasure, but because those who do not know how to pursue pleasure
-            rationally encounter consequences that are extremely painful. Nor
-            again is there anyone who loves or pursues or desires to obtain pain
-            of itself, because it is pain, but because occasionally
-            circumstances occur in which toil and pain can procure him some
-            great pleasure. To take a trivial example, which of us ever
-            undertakes laborious physical exercise, except to obtain some
-            advantage from it? But who has any right to find fault with a man
-            who chooses to enjoy a pleasure that has no annoying consequences,
-            or one who avoids.
+            The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and any or all Agreements: "Client", "You" and "Your" refers to you, the person accessing this website and accepting the Company's terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves, or either the Client or ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner, whether by formal meetings of a fixed duration, or any other means, for the express purpose of meeting the Client's needs in respect of provision of the Company's stated services/products, in accordance with and subject to, prevailing law of United Arab Emirates. Any use of the above terminology or other words in the singular, plural, capitalisation and/or he/she or they, are taken as interchangeable and therefore as referring to same.
           </p>
 
-          <h3>Where can I get some?</h3>
+          <h3>Cookies</h3>
           <p>
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don't look even slightly
-            believable. If you are going to use a passage of Lorem Ipsum, you
-            need to be sure there isn't anything embarrassing hidden in the
-            middle of text. All the Lorem Ipsum generators on the Internet tend
-            to repeat predefined chunks as necessary, making this the first true
-            generator on the Internet. It uses a dictionary of over 200 Latin
-            words, combined with a handful of model sentence structures, to
-            generate Lorem Ipsum which looks reasonable. The generated Lorem
-            Ipsum is therefore always free from repetition, injected humour, or
-            non-characteristic words etc.
+            We employ the use of cookies. By using AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO's website you consent to the use of cookies in accordance with AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO's privacy policy.
           </p>
 
           <p>
-            At vero eos et accusamus et iusto odio dignissimos ducimus qui
-            blanditiis praesentium voluptatum deleniti atque corrupti quos
-            dolores et quas molestias excepturi sint occaecati cupiditate non
-            provident, similique sunt in culpa qui officia deserunt mollitia
-            animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis
-            est et expedita distinctio. Nam libero tempore, cum soluta nobis est
-            eligendi optio cumque nihil impedit quo minus id quod maxime placeat
-            facere possimus, omnis voluptas assumenda est, omnis dolor
-            repellendus. Temporibus autem quibusdam et aut officiis debitis aut
-            rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint
-            et molestiae non recusandae. Itaque earum rerum hic tenetur a
-            sapiente delectus, ut aut reiciendis voluptatibus maiores alias
-            consequatur aut perferendis doloribus asperiores repellat.
+            Most of the modern-day interactive websites use cookies to enable us to retrieve user details for each visit. Cookies are used in some areas of our site to enable the functionality of this area and ease of use for those people visiting. Some of our affiliate/advertising partners may also use cookies.
+          </p>
+
+          <h3>License</h3>
+          <p>
+            Unless otherwise stated, AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO and/or its licensors own the intellectual property rights for all material on AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO. All intellectual property rights are reserved. You may view and/or print pages from https://www.avanzaoil.com for your own personal use subject to restrictions set in these terms and conditions.
+          </p>
+
+          <p>
+            You must not:
+          </p>
+
+          <ul>
+            <li>Republish material from https://www.avanzaoil.com</li>
+            <li>Sell, rent or sub-license material from https://www.avanzaoil.com</li>
+            <li>Reproduce, duplicate or copy material from https://www.avanzaoil.com</li>
+          </ul>
+
+          <p>
+            Redistribute content from AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO (unless the content is specifically made for redistribution).
+          </p>
+
+          <h3>Reservation of Rights</h3>
+          <p>
+            We reserve the right at any time and in its sole discretion to request that you remove all links or any particular link to our website. You agree to immediately remove all links to our website upon such request. We also reserve the right to amend these terms and conditions and its linking policy at any time. By continuing to link to our website, you agree to be bound to and abide by these linking terms and conditions.
+          </p>
+
+          <h3>Removal of links from our website</h3>
+          <p>
+            If you find any link on our website or any linked website objectionable for any reason, you may contact us about this. We will consider requests to remove links but will have no obligation to do so or to respond directly to you.
+          </p>
+
+          <p>
+            Whilst we endeavour to ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we commit to ensuring that the website remains available or that the material on the website is kept up to date.
+          </p>
+
+          <h3>Content Liability</h3>
+          <p>
+            We shall have no responsibility or liability for any content appearing on your website. You agree to indemnify and defend us against all claims arising out of or based upon your website. No link(s) may appear on any page on your website or within any context containing content or materials that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.
+          </p>
+
+          <h3>Disclaimer</h3>
+          <p>
+            To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website (including, without limitation, any warranties implied by law in respect of satisfactory quality, fitness for purpose and/or the use of reasonable care and skill). Nothing in this disclaimer will:
+          </p>
+
+          <ul>
+            <li>limit or exclude our or your liability for death or personal injury resulting from negligence;</li>
+            <li>limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li>
+            <li>limit any of our or your liabilities in any way that is not permitted under applicable law; or</li>
+            <li>exclude any of our or your liabilities that may not be excluded under applicable law.</li>
+          </ul>
+
+          <p>
+            The limitations and exclusions of liability set out in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer or in relation to the subject matter of this disclaimer, including liabilities arising in contract, in tort (including negligence) and for breach of statutory duty.
+          </p>
+
+          <p>
+            To the extent that the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.
+          </p>
+
+          <h3>Update</h3>
+          <p>
+            AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO reserves the right to amend these terms and conditions at any time. By using this website you are agreeing to be bound by the then current version of these terms and conditions.
+          </p>
+
+          <h3>Contact Us</h3>
+          <p>
+            If you have any questions about these Terms and Conditions, please contact us.
           </p>
         </div>
       </div>

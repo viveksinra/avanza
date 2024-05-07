@@ -141,7 +141,7 @@ const FooterTwo: React.FC = () => {
        
         <div className="footer-wrap-shape">
           <Image
-            src="/images/cryptocurrency-home/footer/shape-1.png"
+            src="/images/Avanza/icon/oandg.png"
             alt="image"
             width={63}
             height={58}
