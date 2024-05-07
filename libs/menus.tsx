@@ -32,10 +32,10 @@ export const menus = [
     // ],
   },
 
-  {
-    label: "Services and Solutions",
-    link: "/services/",
-  },
+  // {
+  //   label: "Services and Solutions",
+  //   link: "/services/",
+  // },
   // {
   //   label: "Projects",
   //   link: "/projects/",
