@@ -26,7 +26,7 @@ const NewsletterForm: React.FC = () => {
 
             <div className="subscribe-shape-1">
               <Image
-                src="/images/cryptocurrency-home/subscribe/shape-1.png"
+                src="/images/Avanza/icon/oandg.png"
                 alt="image"
                 width={38}
                 height={39}
