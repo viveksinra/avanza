@@ -33,7 +33,7 @@ const SidebarModal: React.FC<SidebarModalProps> = ({ active, onClick }) => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <span className="main-color">+919846173905</span>
+                  <span className="main-color">+971504578124</span>
                   <span className="or">OR</span>
                   <span>vivek@avanza.com</span>
                 </h2>
