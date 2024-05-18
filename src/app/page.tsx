@@ -36,7 +36,7 @@ export default function Page() {
 
       <WhyChooseUs />
 
-      <Overview />
+      {/* <Overview /> */}
 
       <Feedbacks />
 
