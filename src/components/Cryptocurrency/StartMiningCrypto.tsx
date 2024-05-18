@@ -13,7 +13,7 @@ const StartMiningCrypto: React.FC = () => {
     <>
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
+        sources={["https://www.youtube.com/watch?v=X0Dpd52pfp0"]}
       />
 
       <div className="mining-area ptb-100">
