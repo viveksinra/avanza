@@ -13,6 +13,7 @@ import Feedbacks from "../components/BigDataSolution/Feedbacks";
 import LatestNews from "../components/BigDataSolution/LatestNews";
 import NewsletterForm from "../components/BigDataSolution/NewsletterForm";
 import FooterTwo from "../components/Layout/FooterTwo";
+import AboutArea from "@/components/AboutTwo/AboutArea";
 
 export default function Page() {
   return (
@@ -24,12 +25,12 @@ export default function Page() {
       <MainBanner />
 
       <FunFacts />
-
+<AboutArea />
       <OurFeatures />
 
       <AboutContent />
 
-      <Partners />
+      {/* <Partners /> */}
 
       <Services />
 

@@ -120,7 +120,7 @@ const FooterTwo: React.FC = () => {
                   </li>
                   <li>
                     <span>Website:</span>{" "}
-                    <a href="https://AVANZA.com/" target="_blank">
+                    <a href="https://AVANZA.com/"  target="_blank">
                       AVANZA.com
                     </a>
                   </li>

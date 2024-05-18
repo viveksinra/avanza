@@ -12,7 +12,7 @@ const AboutArea: React.FC = () => {
     <>
       <FsLightbox
         toggler={toggler}
-        sources={["https://www.youtube.com/watch?v=bk7McNUjWgw"]}
+        sources={["https://youtu.be/X0Dpd52pfp0?si=vmqtYgTwq247soib"]}
       />
 
       <div className="about-area-two ptb-100">
@@ -43,42 +43,42 @@ const AboutArea: React.FC = () => {
               <div className="about-content">
                 <div className="section-title text-left">
                   <span className="sub-title">About Us</span>
-                  <h2>We are Dynamic Team of IT Startup Company</h2>
+                  <h2>Welcome to AVANZA OILFIELD EQUIPMENT SUPPLIES AND SERVICES,</h2>
                   <p>
-                    Lorem ipsum dolor sit amet, con se ctetur adipiscing elit.
-                    In sagittis eg esta ante, sed viverra nunc tinci dunt nec
-                    elei fend et tiram.
+                  where reliability meets innovation in oilfield equipment supplies and services. 
                   </p>
                 </div>
                 
                 <div className="about-text">
-                  <h4>Who We Are</h4>
+                  <h4>At AVANZA</h4>
                   <p>
-                    Sed ut perspiciatis unde omnis iste natus error sit
-                    voluptatem accusantium doloremque laudantium, totam rem
-                    aperiam, eaque ipsa quae ab illo inventore veritatis et
-                    quasi architecto beatae vitae dicta sunt explicabo.
+                  we understand the critical importance of seamless operations in the oil and gas industry.
+                   With years of expertise under our belt, we specialize in delivering top-tier equipment 
+                   and comprehensive services tailored to meet the unique demands of your operations. 
                   </p>
                 </div>
 
                 <div className="about-text">
-                  <h4>Our History</h4>
+                  <h4>Our commitment</h4>
                   <p>
-                    But I must explain to you how all this mistaken idea of
-                    denouncing pleasure and praising pain was born and I will
-                    give you a complete account of the system, and expound the
-                    actual teachings of the great explorer of the truth.
+                  Our commitment goes beyond just providing products – we offer quick and reliable support
+                   to keep your operations running smoothly around the clock. Whether you're in need of 
+                   essential equipment, technical expertise, or rapid response services, we've got you covered. 
                   </p>
                 </div>
 
                 <div className="about-text">
-                  <h4>Our Mission</h4>
+                  <h4>Partner with us</h4>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum deleniti atque
-                    corrupti quos dolores et quas molestias excepturi sint
-                    occaecati cupiditate non provident, similique sunt in culpa.
+                  Partner with us and experience the difference of working
+                   with a trusted industry leader. Explore our range of high-quality
+                    products and discover how we can elevate your operations to new 
+                    heights of efficiency and success. 
                   </p>
+                  <h6>
+                  Join us as we pave the way for excellence in oilfield equipment supplies and services.
+                   Your success is our priority, and together, we'll fuel a future of endless possibilities.
+                    </h6>
                 </div>
               </div>
             </div>
