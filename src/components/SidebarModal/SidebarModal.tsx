@@ -33,38 +33,11 @@ const SidebarModal: React.FC<SidebarModalProps> = ({ active, onClick }) => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <span className="main-color">+971504578124</span>
-                  <span className="or">OR</span>
+                  
                   <span>sales@avanzaofess.com</span>
                 </h2>
 
-                <ul className="social">
-                  <li>
-                    <a href="https://twitter.com/" target="_blank">
-                      <i className="fab fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.youtube.com/" target="_blank">
-                      <i className="fab fa-youtube"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.facebook.com/" target="_blank">
-                      <i className="fab fa-facebook-f"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.linkedin.com/" target="_blank">
-                      <i className="fab fa-linkedin-in"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href="https://www.instagram.com/" target="_blank">
-                      <i className="fab fa-instagram"></i>
-                    </a>
-                  </li>
-                </ul>
+             
               </div>
             </div>
           </div>
