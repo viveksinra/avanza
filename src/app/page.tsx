@@ -24,7 +24,7 @@ export default function Page() {
 
       <MainBanner />
 
-      <FunFacts />
+      {/* <FunFacts /> */}
 <AboutArea />
       <OurFeatures />
 

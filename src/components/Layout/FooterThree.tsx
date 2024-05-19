@@ -129,18 +129,20 @@ const FooterThree: React.FC = () => {
 
                 <ul className="contact-links">
                   <li>
-                    <span>Address:</span> 2750 Quadra Street Victoria Road, New
-                    York, Dubai
+                    <span>Address:</span> AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES – FZCO
+Building A1, Dubai Digital Park, 
+Dubai Silicon Oasis, 
+Dubai, United Arab Emirates
                   </li>
                   <li>
                     <span>Website:</span>{" "}
-                    <a href="https://AVANZA.com/" target="_blank">
-                      AVANZA.com
+                    <a href="https://avanzaofess.com/" target="_blank">
+                      www.avanzaofess.com
                     </a>
                   </li>
                   <li>
                     <span>Email:</span>{" "}
-                    <a href="mailto:admin@avanza.com">admin@avanza.com</a>
+                    <a href="mailto:sales@avanzaofess.com">sales@avanzaofess.com</a>
                   </li>
                   <li>
                     <span>Phone:</span>{" "}
@@ -176,7 +178,7 @@ const FooterThree: React.FC = () => {
             <div className="col-lg-6 col-sm-6 col-md-6">
               <p>
                 Copyright @AVANZA. All rights reserved{" "}
-                <a href="https://AVANZA.com/" target="_blank">
+                <a href="https://avanzaofess.com/" target="_blank">
                   AVANZA
                 </a>
               </p>

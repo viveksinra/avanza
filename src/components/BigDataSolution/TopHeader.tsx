@@ -9,7 +9,7 @@ const TopHeader: React.FC = () => {
         <div className="container-fluid">
           <div className="row align-items-center justify-content-center">
             <div className="col-lg-4 col-md-4">
-              <ul className="topbar-social-links">
+              {/* <ul className="topbar-social-links">
                 <li>
                   <a href="https://www.facebook.com/" target="_blank">
                     <i className="bx bxl-facebook"></i>
@@ -30,18 +30,16 @@ const TopHeader: React.FC = () => {
                     <i className="bx bxl-instagram"></i>
                   </a>
                 </li>
-              </ul>
+              </ul> */}
             </div>
             <div className="col-lg-8 col-md-8">
               <ul className="topbar-action-list">
                 <li>
-                  <i className="bx bxs-map"></i> 2750 Quadra Street Victoria
-                  Road, Dubai
+                  <i className="bx bxs-map"></i>Dubai Digital Park, 
+Dubai Silicon Oasis, 
+Dubai, United Arab Emirates
                 </li>
-                <li>
-                  <i className="bx bxs-phone"></i> <span>Call</span>{" "}
-                  <a href="tel:1234567890">+971504578124</a>
-                </li>
+          
               </ul>
             </div>
           </div>

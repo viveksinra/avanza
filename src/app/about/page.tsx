@@ -29,7 +29,7 @@ export default function Page() {
 
       <AboutArea />
 
-      <FunFacts />
+      {/* <FunFacts /> */}
 
       <WhyChooseUs />
 

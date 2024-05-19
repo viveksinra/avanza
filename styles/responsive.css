@@ -1157,8 +1157,8 @@
   }
   .navbar-area {
     background-color: #fff;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     box-shadow: 0 2px 28px 0 rgba(0, 0, 0, 0.06);
   }
   .main-nav .navbar .navbar-nav {

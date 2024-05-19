@@ -14,31 +14,25 @@ const ContactInfo: React.FC = () => {
                   <i className="flaticon-email"></i>
                 </div>
                 <h3>Email Here</h3>
-                <p>admin@avanza.com</p>
-                <p>contactinfo@avanza.com</p>
+                <p>sales@avanzaofess.com</p>
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6 col-sm-6">
-              <div className="contact-info-box">
-                <div className="icon">
-                  <i className="flaticon-phone-call"></i>
-                </div>
-                <h3>Location Here</h3>
-                <p>2750 Quadra Street Victoria Road, New York, Dubai</p>
-              </div>
-            </div>
-
+            
             <div className="col-lg-4 col-md-6 col-sm-6">
               <div className="contact-info-box">
                 <div className="icon">
                   <i className="flaticon-marker"></i>
                 </div>
-                <h3>Call Here</h3>
-                <p>+971504578124</p>
-                <p>+241 452 4526</p>
+                <h3>Location Here</h3>
+                <p>AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES – FZCO
+Building A1, Dubai Digital Park, 
+Dubai Silicon Oasis, 
+Dubai, United Arab Emirates</p>
               </div>
             </div>
+
+       
           </div>
         </div>
       </div>

@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
                   <li>
                     <i className="flaticon-email"></i>
                     <span>Do You Have a Question?</span>
-                    <a href="mailto:vivek@avanza.com">vivek@avanza.com</a>
+                    <a href="mailto:sales@avanzaofess.com">sales@avanzaofess.com</a>
                   </li>
                   <li>
                     <i className="flaticon-social-media"></i>
@@ -189,7 +189,7 @@ const Footer: React.FC = () => {
               <div className="col-lg-6 col-sm-6 col-md-6">
                 <p>
                   Copyright &copy;{currentYear} AVANZA. All rights reserved{" "}
-                  <a href="https://AVANZA.com/" target="_blank">
+                  <a href="https://avanzaofess.com/" target="_blank">
                     AVANZA
                   </a>
                 </p>

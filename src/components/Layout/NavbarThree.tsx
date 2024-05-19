@@ -61,8 +61,8 @@ const NavbarThree: React.FC = () => {
                 <Image
                   src="/images/logo.png"
                   alt="logo"
-                  width={124}
-                  height={38}
+                  width={164}
+                  height={58}
                 />
               </Link>
 

@@ -49,7 +49,7 @@ const PrivacyPolicyContent: React.FC = () => {
 
           <h3>Contact Us</h3>
           <p>
-            If you have any questions about this Privacy Policy or our practices, please contact us at admin@avanza.com.
+            If you have any questions about this Privacy Policy or our practices, please contact us at sales@avanzaofess.com.
           </p>
         </div>
       </div>
