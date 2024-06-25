@@ -42,7 +42,7 @@ const ContactForm: React.FC = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Contact Us</span>
-            <h2>Drop us Message for any Query</h2>
+            <h2>Drop us a message for any queries</h2>
             <p>
             Feel free to reach out with any questions, inquiries, or clarifications. We're here to provide answers, arrange meetings, and ensure we meet your business objectives promptly. Avanza Oilfield Equipment Supplies & Services is committed to your satisfaction and success.
             </p>
