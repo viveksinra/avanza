@@ -26,7 +26,7 @@ const MainBanner: React.FC = () => {
                 </span>
 
                 <h1>
-                  {`AVANZA COMPANY WITH RELIABLE SERVICES`}
+                  {`Empowering Your Business with Affordable Resources, Equipment Supplies, and Smart Solutions!`}
                 </h1>
 
                 <p>
