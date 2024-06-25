@@ -30,7 +30,7 @@ const MainBanner: React.FC = () => {
                 </h1>
 
                 <p>
-                We work hand-in-hand with industry-leading brands to help redefine the possibilities and potential of digital engagements.
+                Innovating with OEMs and Industry Leaders to Redefine Engagement
                 </p>
 
                 <ul className="banner-btn">
