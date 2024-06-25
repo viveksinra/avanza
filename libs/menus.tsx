@@ -51,7 +51,7 @@ export const menus = [
   //   ],
   // },
   {
-    label: "Faq",
+    label: "FAQ",
     link: "/faq/",
   },
   {
