@@ -38,11 +38,11 @@ export default function Page() {
 
       {/* <Overview /> */}
 
-      <Feedbacks />
+      {/* <Feedbacks /> */}
 
       {/* <LatestNews /> */}
 
-      <NewsletterForm />
+      {/* <NewsletterForm /> */}
 
       <FooterTwo />
     </>
