@@ -46,7 +46,7 @@ export const metadata: Metadata = {
   title: "AVANZA - Avanza Oilfield Equipment Supplies and Services - avanzaofess",
   description: "AVANZA (avanzaofess) - AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES (avanzaofess)",
   keywords: "oilfield equipment, oilfield services, AVANZA, avanzaofess",
-  author: "AVANZA",
+  authors: "AVANZA",
   viewport: "width=device-width, initial-scale=1.0",
 };
 
