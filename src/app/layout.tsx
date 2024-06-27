@@ -45,8 +45,8 @@ const Aptos = localFont({
 export const metadata: Metadata = {
   title: "AVANZA - Avanza Oilfield Equipment Supplies and Services - avanzaofess",
   description: "AVANZA (avanzaofess) - AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES (avanzaofess)",
-  keywords: "oilfield equipment, oilfield services, AVANZA, avanzaofess",
-  authors: "AVANZA",
+  keywords: "avanzaofess, avanza ofess, oilfield equipment, oilfield services, AVANZA",
+  authors: [{ name: "AVANZA" },{ name: "avanzaofess" }],
   viewport: "width=device-width, initial-scale=1.0",
 };
 
