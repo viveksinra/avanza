@@ -21,8 +21,7 @@ const SidebarModal: React.FC<SidebarModalProps> = ({ active, onClick }) => {
             <div className="title">
               <h2>About Us</h2>
               <p>
-              AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO is a dynamic and innovative company established in 2024 and headquartered in Dubai, UAE. With a commitment to excellence and a focus on delivering high-quality products and services, AVANZA is a leading provider in the oil and gas industry. Our comprehensive range of offerings includes equipment supplies and services tailored to various aspects of oilfield operations, from drilling and completion to production and maintenance.
-
+              AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES - FZCO is a startup, founded in 2024 and headquartered in Dubai, UAE. We specialize in providing innovative technical solutions, sourcing equipment, spare parts, and offering services that help optimize your oilfield operations. Our expertise includes Artificial Lift and production solutions, aimed at supporting clients in managing both CAPEX and operating costs, while helping you meet your financial goals and operational objectives. From drilling and completion to production and maintenance, our comprehensive solutions are designed to enhance efficiency and performance across all phases of your operations.
               </p>
             </div>
           </div>
