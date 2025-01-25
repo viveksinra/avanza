@@ -13,7 +13,7 @@ interface OneProductProps {
 const OneProduct: React.FC<OneProductProps> = ({ title, description, imageSrc, features }) => {
   return (
     <>
-      <div className="about-area ptb-10">
+      <div className="about-area" style={{paddingTop: "50px", paddingBottom: "50px"}}>
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12">
@@ -29,7 +29,7 @@ const OneProduct: React.FC<OneProductProps> = ({ title, description, imageSrc, f
 
             <div className="col-lg-6 col-md-12">
               <div className="about-content">
-                <h2>{title}</h2>
+                <h2 style={{color:"#B5167F"}}>{title}</h2>
                 <p>{description}</p>
 
                 <ul className="features-list">
