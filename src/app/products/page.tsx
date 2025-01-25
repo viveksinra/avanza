@@ -16,7 +16,7 @@ export default function Page() {
         "Motor Speed Optimization",
         "Energy Efficiency Enhancement",
         "Mechanical Stress Reduction",
-        "Flexible Motor Compatibility (Permanent Magnet & Induction)"
+        "Flexible Motor Compatibility"
       ]
     },
     {
