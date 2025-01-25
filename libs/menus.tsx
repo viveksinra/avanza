@@ -51,6 +51,10 @@ export const menus = [
   //   ],
   // },
   {
+    label: "Products",
+    link: "/products",
+  },
+  {
     label: "FAQ",
     link: "/faq/",
   },

@@ -35,23 +35,23 @@ const FooterTwo: React.FC = () => {
 
                 <ul className="footer-quick-links">
                   <li>
-                    <Link href="about">
+                    <Link href="/about">
                       <i className="fa-solid fa-angles-right"></i> About Us
                     </Link>
                   </li>
                   <li>
-                    <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Feature
+                    <Link href="/products">
+                      <i className="fa-solid fa-angles-right"></i> Our Product
                     </Link>
                   </li>
                   <li>
-                    <Link href="#">
+                    <Link href="/faq">
                       <i className="fa-solid fa-angles-right"></i> Faq
                     </Link>
                   </li>
                   <li>
-                    <Link href="#">
-                      <i className="fa-solid fa-angles-right"></i> Partner
+                    <Link href="/contact">
+                      <i className="fa-solid fa-angles-right"></i> Contact
                     </Link>
                   </li>
            
