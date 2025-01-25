@@ -12,20 +12,16 @@ interface OneProductProps {
 
 const OneProduct: React.FC<OneProductProps> = ({ title, description, imageSrc, features }) => {
   return (
-    <div className="about-area" style={{paddingTop: "30px", paddingBottom: "30px"}}>
+    <div className="about-area py-4">
       <div className="container">
-        <div className="row align-items-center">
-          <div className="col-lg-6 col-md-12">
+        <div className="row align-items-center flex-column-reverse flex-lg-row">
+          <div className="col-12 col-lg-6 mt-4 mt-lg-0">
             <div 
-              className="about-image" 
+              className="about-image w-100" 
               style={{ 
                 position: 'relative', 
-                width: '630px', 
-                height: '350px', 
-                display: 'flex', 
-                justifyContent: 'center', 
-                alignItems: 'center', 
-                overflow: 'hidden'
+                paddingTop: '56.25%', // 16:9 Aspect Ratio
+                width: '100%'
               }}
             >
               <Image
@@ -33,17 +29,16 @@ const OneProduct: React.FC<OneProductProps> = ({ title, description, imageSrc, f
                 alt="image"
                 fill
                 style={{ 
-                  objectFit: "contain", 
-                  width: '100%', 
-                  height: '100%' 
+                  objectFit: "contain"
                 }}
+                sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
               />
             </div>
           </div>
 
-          <div className="col-lg-6 col-md-12">
+          <div className="col-12 col-lg-6">
             <div className="about-content">
-              <h2 style={{color:"#B5167F"}}>{title}</h2>
+              <h2  style={{color:"#B5167F"}}>{title}</h2>
               <p>{description}</p>
 
               <ul className="features-list">
