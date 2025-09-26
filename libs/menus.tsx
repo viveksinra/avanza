@@ -55,6 +55,18 @@ export const menus = [
     link: "/products",
   },
   {
+    label: "ESP Test Bench",
+    link: "/esp-test-bench",
+  },
+  {
+    label: "ESP Workshop Solutions",
+    link: "/esp-workshop-solutions",
+  },
+  {
+    label: "Field Service",
+    link: "/field-service",
+  },
+  {
     label: "FAQ",
     link: "/faq/",
   },
