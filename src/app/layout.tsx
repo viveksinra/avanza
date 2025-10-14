@@ -43,11 +43,24 @@ const Aptos = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "AVANZA - Avanza Oilfield Equipment Supplies and Services - avanzaofess",
-  description: "AVANZA (avanzaofess) - AVANZA OILFIELD EQUIPMENT SUPPLIES & SERVICES (avanzaofess)",
-  keywords: "avanzaofess, avanza ofess, oilfield equipment, oilfield services, AVANZA",
-  authors: [{ name: "AVANZA" },{ name: "avanzaofess" }],
+  metadataBase: new URL("https://www.avanzaofess.com"),
+  title: {
+    default: "Avanza OFESS – Oilfield Equipment Supply & Services (UAE)",
+    template: `%s | Avanza OFESS`,
+  },
+  description: "Avanza OFESS: Leading supplier of oilfield equipment in the UAE, specializing in Artificial Lift, Horizontal Pumping Systems, and ESP Workshop Solutions.",
+  keywords: "avanza, avanza ofess, oilfield equipment, oilfield services, ESP solutions, artificial lift, horizontal pumping, ESP workshop, UAE, Dubai",
+  authors: [{ name: "Avanza OFESS" }],
   viewport: "width=device-width, initial-scale=1.0",
+  applicationName: "Avanza OFESS",
+  openGraph: {
+    title: "Avanza OFESS – Oilfield Equipment Supply & Services (UAE)",
+    description: "Avanza OFESS: Leading supplier of oilfield equipment in the UAE, specializing in Artificial Lift, Horizontal Pumping Systems, and ESP Workshop Solutions.",
+    url: "https://www.avanzaofess.com",
+    siteName: "Avanza OFESS",
+    locale: 'en_US',
+    type: 'website',
+  },
 };
 
 
@@ -56,8 +69,43 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    'name': 'Avanza OFESS',
+    'url': 'https://www.avanzaofess.com',
+    'logo': 'https://www.avanzaofess.com/images/logo.png',
+    'contactPoint': {
+      '@type': 'ContactPoint',
+      'telephone': '+971-55-123-4567', // Please replace with the actual phone number
+      'contactType': 'customer service'
+    }
+  };
+
+  const websiteJsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    'url': 'https://www.avanzaofess.com',
+    'name': 'Avanza OFESS',
+    'potentialAction': {
+      '@type': 'SearchAction',
+      'target': 'https://www.avanzaofess.com/search?q={search_term_string}',
+      'query-input': 'required name=search_term_string'
+    }
+  };
+
   return (
     <html lang="en">
+       <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
+        />
+      </head>
       <body className={Aptos.className}>
         {children}
 

@@ -16,9 +16,6 @@ export default function Page() {
 
       <PageHeader
         pageTitle="Partner"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Partner"
       />
 
       <PartnerLogo />

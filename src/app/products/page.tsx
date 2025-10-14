@@ -191,10 +191,7 @@ export default function Page() {
       <TopHeader />
       <NavbarThree />
       <PageHeader
-        pageTitle="Our Products"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/products"
-        breadcrumbTextTwo="Products"
+        pageTitle="Products"
       />
       <div className="about-area" style={{paddingTop: "50px", paddingBottom: "5px"}}>
         <div className="container">

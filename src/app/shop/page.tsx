@@ -11,9 +11,6 @@ export default function Page() {
 
       <PageHeader
         pageTitle="Shop"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Shop"
       />
 
       <ShopProducts />

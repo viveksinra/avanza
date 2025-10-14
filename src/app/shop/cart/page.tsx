@@ -11,9 +11,6 @@ export default function Page() {
 
       <PageHeader
         pageTitle="Cart"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Cart"
       />
 
       <CartTable />

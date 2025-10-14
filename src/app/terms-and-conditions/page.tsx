@@ -13,10 +13,7 @@ export default function Page() {
    <NavbarThree />
 
       <PageHeader
-        pageTitle="Terms And Conditions"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Terms And Conditions"
+        pageTitle="Terms & Conditions"
       />
 
       <TermsAndConditionsContent />

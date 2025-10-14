@@ -11,10 +11,7 @@ export default function Page() {
       <Navbar />
 
       <PageHeader
-        pageTitle="Blog With Right Sidebar"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Blog With Right Sidebar"
+        pageTitle="Blog Right Sidebar"
       />
 
       {/* Blog Area */}

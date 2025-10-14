@@ -22,9 +22,6 @@ export default function Page() {
    <NavbarThree />
       <PageHeader
         pageTitle="About Us"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="About Us"
       />
 
       <AboutArea />

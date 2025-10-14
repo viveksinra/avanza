@@ -13,10 +13,7 @@ export default function Page() {
       <NavbarThree />
 
       <PageHeader
-        pageTitle="Projects Style One"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Projects Style One"
+        pageTitle="Projects"
       />
 
       <ProjectsCard />

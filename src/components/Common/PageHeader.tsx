@@ -1,22 +1,14 @@
 "use client";
 
 import React from "react";
-import Link from "next/link";
 import Image from "next/image";
+import Breadcrumb from "./Breadcrumb";
 
 interface PageHeaderProps {
   pageTitle: string;
-  breadcrumbTextOne: string;
-  breadcrumbTextTwo: string;
-  breadcrumbUrl: string;
 }
 
-const PageHeader: React.FC<PageHeaderProps> = ({
-  pageTitle,
-  breadcrumbTextOne,
-  breadcrumbTextTwo,
-  breadcrumbUrl,
-}) => {
+const PageHeader: React.FC<PageHeaderProps> = ({ pageTitle }) => {
   return (
     <>
       <div className="page-title-area page-title-bg2">
@@ -25,12 +17,7 @@ const PageHeader: React.FC<PageHeaderProps> = ({
             <div className="container">
               <div className="page-title-content">
                 <h2>{pageTitle}</h2>
-                <ul>
-                  <li>
-                    <Link href={breadcrumbUrl}>{breadcrumbTextOne}</Link>
-                  </li>
-                  <li>{breadcrumbTextTwo}</li>
-                </ul>
+                <Breadcrumb />
               </div>
             </div>
           </div>

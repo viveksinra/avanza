@@ -14,10 +14,7 @@ export default function Page() {
      <TopHeader />
      <NavbarThree />
       <PageHeader
-        pageTitle="Team Style One"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Team Style One"
+        pageTitle="Team"
       />
 
       <TeamCard />

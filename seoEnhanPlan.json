@@ -1,0 +1,998 @@
+{
+    "planName": "AvanzaOFESS SEO Enhancement Plan",
+    "domain": "https://www.avanzaofess.com/",
+    "generatedAt": "2025-10-14",
+    "period": "Last 3 months",
+    "goals": [
+      "Own brand queries for 'Avanza' in UAE/GCC and globally",
+      "Improve average position from ~49 to <=25 in 60 days, <=15 in 90 days",
+      "Lift CTR from ~1.23% to >=2.5% in 60 days, >=4% in 90 days",
+      "Rank for core service and ESP product keywords provided",
+      "Drive qualified B2B leads via Products and Contact pages"
+    ],
+    "baseline": {
+      "totals": {
+        "clicks": 46,
+        "impressions": 3730,
+        "ctr": "1.23%",
+        "avgPosition": 48.96
+      },
+      "byPage": [
+        {
+          "url": "/",
+          "clicks": 28,
+          "impressions": 2284,
+          "ctr": "1.23%",
+          "position": 50.76
+        },
+        {
+          "url": "/products/",
+          "clicks": 14,
+          "impressions": 815,
+          "ctr": "1.72%",
+          "position": 33.68
+        },
+        {
+          "url": "/contact/",
+          "clicks": 4,
+          "impressions": 597,
+          "ctr": "0.67%",
+          "position": 64.29
+        },
+        {
+          "url": "/about/",
+          "clicks": 0,
+          "impressions": 101,
+          "ctr": "0%",
+          "position": 24.65
+        },
+        {
+          "url": "/faq/",
+          "clicks": 0,
+          "impressions": 80,
+          "ctr": "0%",
+          "position": 28.94
+        },
+        {
+          "url": "/privacy-policy/",
+          "clicks": 0,
+          "impressions": 18,
+          "ctr": "0%",
+          "position": 17.06
+        }
+      ],
+      "byDevice": [
+        {
+          "device": "Desktop",
+          "clicks": 31,
+          "impressions": 2966,
+          "ctr": "1.05%",
+          "position": 51.21
+        },
+        {
+          "device": "Mobile",
+          "clicks": 15,
+          "impressions": 756,
+          "ctr": "1.98%",
+          "position": 40.43
+        },
+        {
+          "device": "Tablet",
+          "clicks": 0,
+          "impressions": 8,
+          "ctr": "0%",
+          "position": 15.75
+        }
+      ],
+      "priorityMarkets": [
+        "United Arab Emirates",
+        "United States",
+        "India"
+      ],
+      "topQueries": [
+        {
+          "query": "avanza",
+          "clicks": 0,
+          "impressions": 93,
+          "position": 45.48
+        },
+        {
+          "query": "avanza equipment",
+          "clicks": 0,
+          "impressions": 53,
+          "position": 7.43
+        },
+        {
+          "query": "avanza dubai",
+          "clicks": 0,
+          "impressions": 32,
+          "position": 22.62
+        },
+        {
+          "query": "esp cable spooler",
+          "clicks": 0,
+          "impressions": 31,
+          "position": 13.77
+        },
+        {
+          "query": "oilfield equipment services",
+          "clicks": 0,
+          "impressions": 400,
+          "position": 64.2
+        },
+        {
+          "query": "oilfield equipment suppliers",
+          "clicks": 0,
+          "impressions": 349,
+          "position": 72.6
+        },
+        {
+          "query": "oil field equipment supply",
+          "clicks": 0,
+          "impressions": 275,
+          "position": 25.43
+        },
+        {
+          "query": "esp cable supplier",
+          "clicks": 0,
+          "impressions": 78,
+          "position": 65.54
+        }
+      ],
+      "notes": [
+        "Brand confusion likely with Swedish bank; strengthen 'Avanza OFESS' entity",
+        "No Search Appearance features detected; add structured data for rich results",
+        "Most impressions on desktop; prioritize desktop SERP CTR improvements first"
+      ]
+    },
+    "kpis": [
+      {
+        "id": "K-001",
+        "name": "Brand query 'avanza' avg position <=10",
+        "targetDate": "2025-12-31",
+        "owner": "SEO",
+        "status": "pending"
+      },
+      {
+        "id": "K-002",
+        "name": "Homepage CTR >=3%",
+        "targetDate": "2025-12-15",
+        "owner": "SEO",
+        "status": "pending"
+      },
+      {
+        "id": "K-003",
+        "name": "/products/ avg position <=20",
+        "targetDate": "2026-01-15",
+        "owner": "SEO",
+        "status": "pending"
+      },
+      {
+        "id": "K-004",
+        "name": "5 priority product pages live and indexed",
+        "targetDate": "2025-11-30",
+        "owner": "Dev",
+        "status": "pending"
+      },
+      {
+        "id": "K-005",
+        "name": "2 high-quality UAE citations + 3 industry backlinks",
+        "targetDate": "2025-12-31",
+        "owner": "Outreach",
+        "status": "pending"
+      }
+    ],
+    "keywordClusters": {
+      "coreServiceOfferings": [
+        "Artificial Lift Solutions",
+        "Horizontal Pumping Systems and Solutions",
+        "ESP Workshop Solutions"
+      ],
+      "espProducts": [
+        "ESP power cable",
+        "ESP power cable supplier Dubai",
+        "ESP Accessories & Spares",
+        "ESP Consumables",
+        "Motor Oil",
+        "Splicing Tapes",
+        "Splicing Sleeves",
+        "Banding Material",
+        "Cable Bands",
+        "CCCP (Cross Coupling Cable Protectors)",
+        "Mid Joint Cable Protectors",
+        "ESP Packer",
+        "Y-Tools and By-Pass Systems",
+        "Blanking Plug",
+        "Logging Plug",
+        "ESP Wellhead Electric Feed Thru Connectors (EFT)",
+        "Upper Pig Tail",
+        "Penetrator",
+        "Lower Pig tail",
+        "ESP Packer Electric Feed Thru Connectors (EFT)",
+        "Liner Hanger",
+        "ESP Cable Spooler",
+        "Cable Sheave",
+        "ESP Power Skid",
+        "VSD Power Skid",
+        "ESP Transformers",
+        "Step Up Transformers",
+        "Step Down Transformers",
+        "Phase Shifting Transformers"
+      ],
+      "driveSystems": [
+        "Variable Speed Drives for ESP",
+        "12 Pulse Drives",
+        "18 Pulse Drives",
+        "24 Pulse Drives",
+        "AFE (Active Front End) Drives"
+      ],
+      "regionalCoverage": [
+        "Oilfield equipment supplier UAE",
+        "Drill bits supplier Yemen",
+        "Drill bits supplier Oman",
+        "Drill bits supplier UAE",
+        "Drilling Tools",
+        "Drilling Accessories"
+      ],
+      "workshopEquipment": [
+        "ESP workshop equipment",
+        "HPTS (Horizontal Pump Test Bench)",
+        "MIST (Motor Idle Slant Test)",
+        "Seal/Protector Test Bench",
+        "ESP Assembly & Dismantle Bench",
+        "ESP Shaft Straightener Bench",
+        "ESP maintenance tools",
+        "ESP workshop tools",
+        "ESP repair equipment",
+        "ESP workshop setup"
+      ]
+    },
+    "pageMapping": [
+      {
+        "existingUrl": "/",
+        "targetTitle": "Avanza OFESS – Oilfield Equipment Supply & Services (UAE)",
+        "targetH1": "Avanza OFESS: Oilfield Equipment & ESP Solutions",
+        "targetKeywords": [
+          "avanza",
+          "avanza dubai",
+          "oilfield equipment supply",
+          "Artificial Lift Solutions",
+          "Horizontal Pumping Systems and Solutions",
+          "ESP Workshop Solutions"
+        ],
+        "status": "pending"
+      },
+      {
+        "existingUrl": "/products/",
+        "targetTitle": "Oilfield Products: ESP Cables, Accessories, Drives, Transformers | Avanza OFESS",
+        "targetH1": "Oilfield & ESP Products",
+        "targetKeywords": [
+          "ESP power cable",
+          "ESP Accessories & Spares",
+          "Variable Speed Drives for ESP",
+          "Step Up Transformers",
+          "Step Down Transformers"
+        ],
+        "status": "pending"
+      },
+      {
+        "existingUrl": "/faq/",
+        "targetTitle": "Avanza OFESS FAQ – ESP, Drives, Accessories",
+        "targetH1": "Frequently Asked Questions",
+        "targetKeywords": [
+          "ESP splicing",
+          "ESP packer",
+          "VSD for ESP"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/solutions/artificial-lift",
+        "targetTitle": "Artificial Lift Solutions | Avanza OFESS",
+        "targetH1": "Artificial Lift Solutions",
+        "targetKeywords": [
+          "Artificial Lift Solutions"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/solutions/horizontal-pumping",
+        "targetTitle": "Horizontal Pumping Systems and Solutions | Avanza OFESS",
+        "targetH1": "Horizontal Pumping Systems",
+        "targetKeywords": [
+          "Horizontal Pumping Systems and Solutions"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/solutions/esp-workshop",
+        "targetTitle": "ESP Workshop Solutions | Avanza OFESS",
+        "targetH1": "ESP Workshop Solutions",
+        "targetKeywords": [
+          "ESP workshop equipment",
+          "ESP workshop setup",
+          "ESP maintenance tools"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/products/esp-power-cable",
+        "targetTitle": "ESP Power Cable Supplier Dubai | Avanza OFESS",
+        "targetH1": "ESP Power Cable",
+        "targetKeywords": [
+          "ESP power cable",
+          "ESP power cable supplier Dubai",
+          "ESP cable penetrator",
+          "ESP wellhead"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/products/esp-accessories-spares",
+        "targetTitle": "ESP Accessories & Spares: Splicing, Bands, Protectors | Avanza OFESS",
+        "targetH1": "ESP Accessories & Spares",
+        "targetKeywords": [
+          "ESP Accessories & Spares",
+          "Splicing Tapes",
+          "Splicing Sleeves",
+          "Cable Bands",
+          "CCCP",
+          "Mid Joint Cable Protectors"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/products/drive-systems",
+        "targetTitle": "ESP Drive Systems: VSD, 12/18/24 Pulse, AFE | Avanza OFESS",
+        "targetH1": "Drive Systems for ESP",
+        "targetKeywords": [
+          "Variable Speed Drives for ESP",
+          "12 Pulse Drives",
+          "18 Pulse Drives",
+          "24 Pulse Drives",
+          "AFE Drives"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/products/transformers",
+        "targetTitle": "Transformers for ESP: Step Up, Step Down, Phase Shifting | Avanza OFESS",
+        "targetH1": "Transformers for ESP Systems",
+        "targetKeywords": [
+          "ESP Transformers",
+          "Step Up Transformers",
+          "Step Down Transformers",
+          "Phase Shifting Transformers"
+        ],
+        "status": "pending"
+      },
+      {
+        "proposedUrl": "/locations/uae-oilfield-equipment-supplier",
+        "targetTitle": "Oilfield Equipment Supplier UAE (Dubai) | Avanza OFESS",
+        "targetH1": "Oilfield Equipment Supplier in UAE",
+        "targetKeywords": [
+          "Oilfield equipment supplier UAE",
+          "oilfield equipment dubai"
+        ],
+        "status": "pending"
+      }
+    ],
+    "tasks": [
+      {
+        "id": "T-001",
+        "title": "Set brand site name and consistent titles/descriptions",
+        "type": "technical",
+        "impact": "high",
+        "difficulty": "low",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Update default metadata in src/app/layout.tsx to 'Avanza OFESS – Oilfield Equipment Supply & Services (UAE)'",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 2,
+            "desc": "Add brand qualifier 'Avanza OFESS' to page titles and improve meta descriptions for /, /products, /contact, /about, /faq",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 3,
+            "desc": "Add application-name and og:site_name meta",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          }
+        ],
+        "measurement": "Brand query CTR and position for 'avanza'"
+      },
+      {
+        "id": "T-002",
+        "title": "Sitemap and robots setup",
+        "type": "technical",
+        "impact": "high",
+        "difficulty": "low",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create app/sitemap.ts to emit canonical URLs for all pages",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 2,
+            "desc": "Create app/robots.ts to allow crawling and point to sitemap",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 3,
+            "desc": "Submit sitemap in Google Search Console",
+            "owner": "Ops",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Sitemap discovered in GSC; faster indexing"
+      },
+      {
+        "id": "T-003",
+        "title": "Add structured data (Organization, Website, Breadcrumb, FAQ, Product)",
+        "type": "technical",
+        "impact": "high",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-001"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Add Organization + Website JSON-LD in layout with sameAs (LinkedIn, directory profiles)",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 2,
+            "desc": "Mark /faq with FAQPage JSON-LD from existing Q&As",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 3,
+            "desc": "Add BreadcrumbList across Products and child pages",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 4,
+            "desc": "Add Product schema for key products (esp-power-cable, accessories, drives, transformers)",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Search Appearance shows rich results"
+      },
+      {
+        "id": "T-004",
+        "title": "Implement canonical URLs and prevent duplicates",
+        "type": "technical",
+        "impact": "medium",
+        "difficulty": "low",
+        "owner": "Dev",
+        "status": "completed",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Ensure each page exports canonical in metadata (absolute URL)",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 2,
+            "desc": "Audit for duplicate paths (trailing slashes, query params) and add canonical/self-canonical",
+            "owner": "SEO",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Index coverage stable; no duplicate content flags"
+      },
+      {
+        "id": "T-005",
+        "title": "Homepage content refresh for brand + core offerings",
+        "type": "content",
+        "impact": "high",
+        "difficulty": "medium",
+        "owner": "Content",
+        "status": "pending",
+        "dependencies": [
+          "T-001"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Rewrite hero H1/H2 to target brand + 'Oilfield Equipment' + core service phrases",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add ~300-500 words section summarizing Artificial Lift, Horizontal Pumping, ESP Workshop",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 3,
+            "desc": "Add internal links to new solution pages",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "/ CTR and dwell time increase"
+      },
+      {
+        "id": "T-006",
+        "title": "Optimize /products with category sections and internal links",
+        "type": "content",
+        "impact": "high",
+        "difficulty": "medium",
+        "owner": "Content",
+        "status": "pending",
+        "dependencies": [
+          "T-003"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Group products: ESP Cables, Accessories & Spares, Drive Systems, Transformers",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add descriptive copy (250-400 words per group) with target keywords",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 3,
+            "desc": "Link to child product pages (existing/proposed)",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "/products position improves; child pages indexed"
+      },
+      {
+        "id": "T-007",
+        "title": "New page: ESP Power Cable (Dubai supplier)",
+        "type": "content",
+        "impact": "high",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-002",
+          "T-003"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create /products/esp-power-cable page with 800+ words, specs, use-cases, FAQs",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add Product schema, images with alt text, internal links",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Query 'ESP power cable supplier Dubai' positions within top 30"
+      },
+      {
+        "id": "T-008",
+        "title": "New page: ESP Accessories & Spares",
+        "type": "content",
+        "impact": "high",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-002",
+          "T-003"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create /products/esp-accessories-spares with clusters: splicing, bands, protectors",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add Product schema and cross-links to CCCP, Mid Joint Protectors, Packer, EFT connectors",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Accessory keywords impressions and clicks"
+      },
+      {
+        "id": "T-009",
+        "title": "New page: Drive Systems (VSD, 12/18/24 Pulse, AFE)",
+        "type": "content",
+        "impact": "medium",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-002",
+          "T-003"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create /products/drive-systems overview + child sections",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add comparison table and schema where applicable",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Drive keywords rank within top 40"
+      },
+      {
+        "id": "T-010",
+        "title": "New page: Transformers for ESP (Step Up/Down/Phase Shifting)",
+        "type": "content",
+        "impact": "medium",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-002",
+          "T-003"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create /products/transformers with detailed specs and applications",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add schema and internal links to drive systems and power skid",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Transformer keywords top 50"
+      },
+      {
+        "id": "T-011",
+        "title": "New page: ESP Workshop Solutions (HPTS, MIST, benches)",
+        "type": "content",
+        "impact": "medium",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-002",
+          "T-003"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create /solutions/esp-workshop with subsections HPTS, MIST, benches, tools",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add FAQPage schema and media",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Workshop keywords impressions increase"
+      },
+      {
+        "id": "T-012",
+        "title": "Location landing: Oilfield Equipment Supplier UAE (Dubai)",
+        "type": "content",
+        "impact": "high",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-001",
+          "T-003"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create /locations/uae-oilfield-equipment-supplier with NAP, service areas, map",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Add LocalBusiness schema (if office), embed map, link to Contact",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "UAE geo keywords top 30"
+      },
+      {
+        "id": "T-013",
+        "title": "Internal linking and navigation updates",
+        "type": "technical",
+        "impact": "high",
+        "difficulty": "low",
+        "owner": "Dev",
+        "status": "in_progress",
+        "dependencies": [
+          "T-006",
+          "T-007",
+          "T-008",
+          "T-009",
+          "T-010",
+          "T-011",
+          "T-012"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Update libs/menus.tsx to include new pages under Products/Solutions",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "completed"
+          },
+          {
+            "n": 2,
+            "desc": "Add contextual links between related product pages",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Crawl depth reduced; improved discovery in GSC"
+      },
+      {
+        "id": "T-014",
+        "title": "Image optimization and alt text coverage",
+        "type": "technical",
+        "impact": "medium",
+        "difficulty": "low",
+        "owner": "Dev",
+        "status": "pending",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Convert heavy PNG/JPG to WebP where feasible; use next/image",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Ensure descriptive alt text containing target keywords where relevant (no stuffing)",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "CLS/LCP improvement; image SEO impressions"
+      },
+      {
+        "id": "T-015",
+        "title": "Core Web Vitals improvements (LCP/INP/CLS)",
+        "type": "technical",
+        "impact": "medium",
+        "difficulty": "medium",
+        "owner": "Dev",
+        "status": "pending",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Defer non-critical scripts; remove unused CSS; preconnect to fonts",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Cache headers and image sizing audits",
+            "owner": "Dev",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "CWV field data improvements in CrUX/GSC"
+      },
+      {
+        "id": "T-016",
+        "title": "Local SEO and citations (UAE priority)",
+        "type": "offsite",
+        "impact": "high",
+        "difficulty": "medium",
+        "owner": "Outreach",
+        "status": "pending",
+        "dependencies": [
+          "T-012"
+        ],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Set up/optimize Google Business Profile (Dubai) with categories and products",
+            "owner": "Ops",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Acquire 2-3 UAE directory listings (industry-relevant) with consistent NAP",
+            "owner": "Outreach",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Local pack impressions; referral traffic"
+      },
+      {
+        "id": "T-017",
+        "title": "Industry backlinks and PR",
+        "type": "offsite",
+        "impact": "medium",
+        "difficulty": "medium",
+        "owner": "Outreach",
+        "status": "pending",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Pitch product/solution pages to industry directories and partners",
+            "owner": "Outreach",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Publish 1 press-style announcement about ESP offering expansion",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Referring domains + quality backlinks"
+      },
+      {
+        "id": "T-018",
+        "title": "Blog/editorial content schedule (topical authority)",
+        "type": "content",
+        "impact": "medium",
+        "difficulty": "medium",
+        "owner": "Content",
+        "status": "pending",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Plan 6 posts: ESP power cable buyer's guide; HPTS vs alternatives; AFE vs 12/18/24 pulse; ESP workshop setup checklist; UAE oilfield supplier checklist; VSD troubleshooting",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Publish 2 posts/month with internal links to product pages",
+            "owner": "Content",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Informational query impressions; assisted conversions"
+      },
+      {
+        "id": "T-019",
+        "title": "Measurement and dashboards",
+        "type": "analytics",
+        "impact": "high",
+        "difficulty": "low",
+        "owner": "SEO",
+        "status": "pending",
+        "dependencies": [],
+        "steps": [
+          {
+            "n": 1,
+            "desc": "Create GSC saved reports for brand queries ('avanza', 'avanza dubai', 'avanza equipment')",
+            "owner": "SEO",
+            "mode": "manual",
+            "status": "pending"
+          },
+          {
+            "n": 2,
+            "desc": "Set ranking trackers for 20 priority keywords across clusters",
+            "owner": "SEO",
+            "mode": "manual",
+            "status": "pending"
+          }
+        ],
+        "measurement": "Weekly KPI visibility"
+      }
+    ],
+    "milestones": [
+      {
+        "name": "Technical foundations live (T-001..T-004)",
+        "targetDate": "2025-10-28",
+        "status": "pending"
+      },
+      {
+        "name": "Priority pages published (T-007..T-012)",
+        "targetDate": "2025-11-30",
+        "status": "pending"
+      },
+      {
+        "name": "Backlinks + content cadence (T-016..T-018)",
+        "targetDate": "2025-12-31",
+        "status": "pending"
+      }
+    ],
+    "risks": [
+      "Index bloat from thin pages: ensure 600-800+ words and unique media",
+      "Brand ambiguity: always use 'Avanza OFESS' in titles to avoid confusion",
+      "Slow indexing: mitigate with sitemap, internal links, and GSC URL inspection"
+    ],
+    "reviewCadence": [
+      "Weekly: GSC trends, crawl/index issues",
+      "Bi-weekly: Content production and internal linking",
+      "Monthly: KPI and rankings review"
+    ]
+  }

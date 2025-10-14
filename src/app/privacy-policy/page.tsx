@@ -14,9 +14,6 @@ export default function Page() {
 
       <PageHeader
         pageTitle="Privacy Policy"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Privacy Policy"
       />
 
       <PrivacyPolicyContent />

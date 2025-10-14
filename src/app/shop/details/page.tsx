@@ -10,10 +10,7 @@ export default function Page() {
       <Navbar />
 
       <PageHeader
-        pageTitle="Product Details"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Product Details"
+        pageTitle="Shop Details"
       />
 
       <ProductDetails />

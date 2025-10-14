@@ -15,9 +15,6 @@ export default function Page() {
 
       <PageHeader
         pageTitle="Contact"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Contact"
       />
 
       <ContactForm />

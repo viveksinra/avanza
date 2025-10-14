@@ -11,9 +11,6 @@ export default function Page() {
 
       <PageHeader
         pageTitle="Blog Grid"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Blog Grid"
       />
 
       <BlogCard />

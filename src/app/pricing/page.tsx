@@ -13,9 +13,6 @@ export default function Page() {
 
       <PageHeader
         pageTitle="Pricing"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Pricing"
       />
 
       <PricingCard />

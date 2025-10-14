@@ -15,10 +15,7 @@ export default function Page() {
       <NavbarThree />
 
       <PageHeader
-        pageTitle="Project Details"
-        breadcrumbTextOne="Home"
-        breadcrumbUrl="/"
-        breadcrumbTextTwo="Project Details"
+        pageTitle="Projects Details"
       />
 
       <ProjectDetailsContent />

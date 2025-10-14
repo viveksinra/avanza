@@ -2,69 +2,72 @@ export const menus = [
   {
     label: "Home",
     link: "/",
-
   },
   {
     label: "About",
     link: "/about/",
-    // submenu: [
-    //   {
-    //     label: "About Us",
-    //     link: "/about/",
-    //   },
-    //   {
-    //     label: "Team 1",
-    //     link: "/team/",
-    //   },
- 
-    //   {
-    //     label: "Features",
-    //     link: "/features/",
-    //   },
-    //   {
-    //     label: "Partner",
-    //     link: "/partner/",
-    //   },
-    //   {
-    //     label: "Faq",
-    //     link: "/faq/",
-    //   },
-    // ],
   },
-
-  // {
-  //   label: "Services and Solutions",
-  //   link: "/services/",
-  // },
-  // {
-  //   label: "Projects",
-  //   link: "/projects/",
-  //   submenu: [
-  //     {
-  //       label: "Projects",
-  //       link: "/projects/",
-  //     },
-  //     {
-  //       label: "Project Details",
-  //       link: "/projects/details/",
-  //     },
-  //   ],
-  // },
+  {
+    label: "Solutions",
+    link: "#",
+    submenu: [
+      {
+        label: "Artificial Lift Solutions",
+        link: "/solutions/artificial-lift",
+      },
+      {
+        label: "Horizontal Pumping Systems",
+        link: "/solutions/horizontal-pumping",
+      },
+      {
+        label: "ESP Workshop Solutions",
+        link: "/solutions/esp-workshop",
+      },
+    ],
+  },
   {
     label: "Products",
     link: "/products",
+    submenu: [
+        {
+            label: "All Products",
+            link: "/products",
+        },
+        {
+            label: "ESP Power Cable",
+            link: "/products/esp-power-cable",
+        },
+        {
+            label: "ESP Accessories & Spares",
+            link: "/products/esp-accessories-spares",
+        },
+        {
+            label: "Drive Systems for ESP",
+            link: "/products/drive-systems",
+        },
+        {
+            label: "Transformers for ESP",
+            link: "/products/transformers",
+        },
+    ]
   },
   {
-    label: "ESP Test Bench",
-    link: "/esp-test-bench",
+    label: "Services",
+    link: "#",
+    submenu: [
+        {
+            label: "ESP Test Bench",
+            link: "/esp-test-bench",
+          },
+          {
+            label: "Field Service",
+            link: "/field-service",
+          },
+    ]
   },
   {
-    label: "ESP Workshop Solutions",
-    link: "/esp-workshop-solutions",
-  },
-  {
-    label: "Field Service",
-    link: "/field-service",
+    label: "Locations",
+    link: "/locations/uae-oilfield-equipment-supplier",
   },
   {
     label: "FAQ",
